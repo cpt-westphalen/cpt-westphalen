@@ -1,10 +1,5 @@
-- 👋 sup, I’m @cpt-westphalen, from southern Brazil.
-- 👀 I’m interested in communication, sustainability and personal and social development.
-- 🌱 I’m currently learning to code javascript, looking forward to learning html and css later.
-- 💞️ I’m looking to collaborate on anything which aims for making life easier, more fulfilling and interesting.
-- 📫 E-mail me at rbwestphalen@gmail.com
-
-<!---
-cpt-westphalen/cpt-westphalen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Buenas, sou @cpt-westphalen, do sul do Brasil.
+- 👀 Tenho interesse em comunicação (minha área atual), sustentabilidade, desenvolvimento pessoal e social.
+- 🌱 Comecei a estudar Javascript e penso em seguir no Front-End, mas ainda não tenho nada definido.
+- 💞️ Provavelmente não consigo colaborar com nada ainda, mas me interesso por coisas que facilitem a vida de quem só se fode.
+- 📫 Manda e-mail no: rbwestphalen@gmail.com
