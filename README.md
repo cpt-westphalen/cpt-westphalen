@@ -6,6 +6,7 @@
 ![Codewars Level Badge](https://www.codewars.com/users/cpt-westphalen/badges/large)
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
 --
+### Open for Work
 ## 🌱 Buenas, sou @cpt-westphalen, do sul do Brasil.
 * Pode me chamar de **Rodrigo, Cão, Capitão,** _ou não chamar, tbm, td certo, sem ressentimentos_
 * Tenho interesse em problemas complexos, comunicação, sustentabilidade, desenvolvimento pessoal e social.
@@ -16,7 +17,7 @@
 ## 🌱 sup, I'm @cpt-westphalen, from southern Brazil.
 * You can call me **Rodrigo** or **Captain** _(it's ironic),_ or **Cão**, if you'd like (but you probably can't pronounce that, lol).
 * I'm into complex problems, communication (I'm a journalism student, also), sustainability, personal and social development.
-* My ongoing studies are on **JavaScript**, which I really like _- and yes, as you might have guessed rn, I have a history of drug abuse)_ 
+* My ongoing studies are on **JavaScript**, which I really like _- and yes, as you might have guessed r/n, I have a history of drug abuse._ 
   * React | junior lvl
   * Node.js | scratching the surface
   * Next.js | yet to start
