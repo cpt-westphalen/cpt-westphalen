@@ -22,3 +22,19 @@
   * Next.js | yet to start
 * I'm seeking for projects that deals with agroforesty, education, community technology, clean energy and ecological solutions.
 * 📫 Find me at: rbwestphalen@gmail.com / [LinkedIn](https://linkedin.com/in/rbwestphalen)
+
+---
+
+## Checkout what I'm working on:
+
+### NLW 2022 - FIND YOUR DUO [(link)](https://github.com/cpt-westphalen/nlw-ignite-2022)
+
+Rocketseat's Next Level Week project - but it's my code.
+
+### TDD VITE CRUD [(link)](https://github.com/cpt-westphalen/tdd-vite-windi-crud)
+
+Testing a few technologies on the same project: Vite for React, test-driven development with Vitest and WindiCSS. The CRUD part is yet to be made, tho'.
+
+### LEFTNIX [(link)](https://github.com/cpt-westphalen/leftnix)
+
+My first project, still a work in progress. I hate the fact that every time I come back to it I recall how much refactoring it needs. Also, I didn't start with Tailwind, or TS, or even Vite, so it's kinda a mess, but it will be great someday.
