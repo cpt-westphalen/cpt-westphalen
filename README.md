@@ -27,7 +27,7 @@
 
 ### LEFTNIX [(link)](https://github.com/cpt-westphalen/leftnix)
 
-A remake of my [first project](https://github.com/cpt-westphalen/leftnix-old) using TypeScript, Vite, Vitest and TailwindCSS. I'm live coding it from scratch at [Twitch.](https://twitch.tv/cptwestphalen).
+A remake of my [first project](https://github.com/cpt-westphalen/leftnix-old) using TypeScript, Vite, Vitest and TailwindCSS. I'm live coding it from scratch at [Twitch](https://twitch.tv/cptwestphalen).
 
 ### NLW 2022 - FIND YOUR DUO [(link)](https://github.com/cpt-westphalen/nlw-ignite-2022)
 
