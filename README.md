@@ -1,8 +1,3 @@
-![JavaScript Progress Bar of 60%](https://progress-bar.dev/60/?scale=100&title=JavaScript&width=120&color=CC0000)
-![React Progress Bar of 40%](https://progress-bar.dev/40/?scale=100&title=React&width=120&color=6699FF)
-![Node Progress Bar of 5%](https://progress-bar.dev/5/?scale=100&title=Node.js&width=100&color=22AA00)
-![Next Progress Bar of 0%](https://progress-bar.dev/0/?scale=100&title=Next.js&width=95&color=333333)
-
 ![Codewars Level Badge](https://www.codewars.com/users/cpt-westphalen/badges/large)
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
 --
