@@ -19,18 +19,4 @@
 
 ---
 
-## Checkout what I'm working on:
-
-### LEFTNIX [(link)](https://github.com/cpt-westphalen/leftnix)
-
-A remake of my [first project](https://github.com/cpt-westphalen/leftnix-old) using TypeScript, Vite, Vitest and TailwindCSS. I'm live coding it from scratch at [Twitch](https://twitch.tv/cptwestphalen).
-
-### NLW 2022 - FIND YOUR DUO [(link)](https://github.com/cpt-westphalen/nlw-ignite-2022)
-
-Rocketseat's Next Level Week project - but it's my code. React, TailwindCSS, Vite. Responsive. Enhanced from a Figma design.
-
-### TDD VITE CRUD [(link)](https://github.com/cpt-westphalen/tdd-vite-windi-crud)
-
-Testing a few technologies on the same project: Vite for React, test-driven development with Vitest, and WindiCSS. The CRUD part is yet to be made, though.
-
-#### Find more at my repos :)
+## Checkout what I'm working on
