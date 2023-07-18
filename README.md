@@ -1,7 +1,7 @@
 ![Codewars Level Badge](https://www.codewars.com/users/cpt-westphalen/badges/large)
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
 --
-### :: Open for Work :: [LinkedIn](https://linkedin.com/in/rbwestphalen)
+### :: [LinkedIn](https://linkedin.com/in/rbwestphalen)
 ## 🌱 Buenas, sou @rbwestphalen, do sul do Brasil.
 * Pode me chamar de **Rodrigo, Westphalen, ou 'Cão',** um apelido antigo e fácil de lembrar :)
 * Tenho interesse em problemas complexos, comunicação, sustentabilidade, desenvolvimento pessoal e social.
