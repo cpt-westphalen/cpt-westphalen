@@ -5,16 +5,17 @@
 ## 🌱 Buenas, sou @rbwestphalen, do sul do Brasil.
 * Pode me chamar de **Rodrigo, Westphalen, ou 'Cão',** um apelido antigo e fácil de lembrar :)
 * Tenho interesse em problemas complexos, comunicação, sustentabilidade, desenvolvimento pessoal e social.
-* Estudo **React**, **TypeScript**, Node.js (Express / Nest.js) e Java; penso em seguir pelo front-end, mas sou agnóstico sobre a stack.
-* Em busca de projetos que tratem de educação, tecnologias comunitárias, energia limpa, agroflorestas e soluções ecológicas.
-* 📫 Conecta aí: rbwestphalen@proton.me / [LinkedIn](https://linkedin.com/in/rbwestphalen) / [Twitter](https://twitter.com/rbwestphalen)
+* Passei mais horas programando em **TypeScript**, sendo **React** no frontend e Node e Bun com Express no backend; sou agnóstico sobre a stack, já trabalhei até com PHP (Drupal).
+* Em busca de conhecer de projetos que tratem de educação, tecnologias comunitárias, energia limpa, agroflorestas e soluções ecológicas.
+* Trabalho para uma startup que está em modo stealth.
+* 📫 Conecta aí: rbwestphalen@proton.me / [LinkedIn](https://linkedin.com/in/rbwestphalen)
 ---
 ## 🌱 sup, I'm @rbwestphalen, from southern Brazil.
 * You can call me **Rodrigo**, **Westphalen**, or **Cão**, if you'd like (but you probably can't pronounce that, hehe).
-* I'm into complex problems, sustainability, personal and social development and communication (I study journalism).
-* I'm studying a **JavaScript** based stack: TypeScript, React, Node.js (Express / Nest.js), yet I also study Java on the side.
+* I'm into complex problems, sustainability, personal and social development and communication.
+* I'm studying a **TypeScript** based stack: TypeScript, React, Node / Bun (mostly Express); yet I have already worked with PHP (Drupal) also, lol.
 * I'm interested in projects that deals with education, community technology, cooperativism, clean energy, agroforesty and ecological solutions.
-* I'm open for work as a Junior.
+* I work for a startup that's in stealth mode.
 * 📫 Find me at: rbwestphalen@proton.me / [LinkedIn](https://linkedin.com/in/rbwestphalen)
 
 ---
