@@ -16,4 +16,3 @@
 * I'm interested in projects that deals with education, community technology, cooperativism, clean energy, agroforesty and ecological solutions.
 * I work for a startup named Everest that is developing an ERP for SaaS, in a product that allows business users to manage the lifecycle of software with AI (AiSpecify) - my contributions are in another account.
 * 📫 Find me at: rbwestphalen@proton.me / [LinkedIn](https://linkedin.com/in/rbwestphalen)
-* 
